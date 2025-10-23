@@ -269,7 +269,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## Contact
 
 **Meenatchi Sundari**  
- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/meenatchisundari)  
+ LinkedIn: (https://linkedin.com/in/meenatchisundari)  
 
 ## Future Enhancements
 
