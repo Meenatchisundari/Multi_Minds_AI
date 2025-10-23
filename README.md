@@ -1,4 +1,4 @@
-# Multi_Minds_AI — Intelligent Multi-Agent System with CI/CD Pipeline
+# Multi Minds AI — Intelligent Multi-Agent System with CI/CD Pipeline
 
 An advanced multi-agent AI application that orchestrates multiple LLM providers (Groq API, Tavily API) through a sophisticated backend system, featuring automated CI/CD deployment through Jenkins, Docker containerization, and AWS Fargate hosting — combining intelligent agent coordination, modern DevOps practices, and cloud-native deployment into one complete solution.
 
@@ -269,7 +269,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## Contact
 
 **Meenatchi Sundari**  
- LinkedIn: (https://linkedin.com/in/meenatchisundari)  
 
 ## Future Enhancements
 
